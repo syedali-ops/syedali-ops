@@ -11,7 +11,7 @@ I also trained new hires as a subject matter expert.
 - **Tools:** Excel (lookups, pivots), SQL, ticketing and case tools
 
 ## Featured work
-- Support SOP & Escalation Playbook (coming soon)
+- [Support SOP & Escalation Playbook](https://github.com/syedali-ops/support-sop-escalation-playbook): sample SOPs, escalation matrix and case-note templates
 
 ## Looking for
 Customer support, verification/KYC, and support operations roles.
